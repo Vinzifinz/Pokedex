@@ -43,10 +43,12 @@ function App() {
   }
 
   return (
-    <div>
+    <>
       <NavBar setPokemonName={setPokemonName} pokemonList={pokemonList} />
-      <PokemonCard pokemon={pokemon} />
-    </div>
+      <div className={`${pokemon.name}`}>
+        <PokemonCard pokemon={pokemon} />
+      </div>
+    </>
   );
 }
 

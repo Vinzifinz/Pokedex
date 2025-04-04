@@ -1,0 +1,29 @@
+.bulbasaur {
+    box-shadow: 10px 5px 5px 5px;
+    background-color: rgb(163, 231, 163);
+    border-radius: 5%;
+}
+
+.pikachu {
+    box-shadow: 10px 5px 5px 5px;
+    background-color: rgb(238, 240, 139);
+    border-radius: 5%;
+}
+
+.charmander {
+    box-shadow: 10px 5px 5px 5px;
+    background-color: rgb(241, 169, 82);
+    border-radius: 5%;
+}
+
+.squirtle {
+    box-shadow: 10px 5px 5px 5px;
+    background-color: rgb(82, 212, 241);
+    border-radius: 5%;
+}
+
+img {
+    background-color: whitesmoke;
+    margin: 1rem;
+    border-radius: 5%;
+}

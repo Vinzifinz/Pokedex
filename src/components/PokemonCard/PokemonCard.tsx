@@ -1,3 +1,5 @@
+import "./PokemonCard.css"
+
 interface Props {
     name: string;
     imgSrc?: string;
